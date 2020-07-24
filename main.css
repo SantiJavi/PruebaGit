@@ -36,3 +36,21 @@
     text-align: center;
     width: 100%;
 }
+
+.boton {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.boton a {
+    text-decoration: none;
+    background-color: yellowgreen;
+    padding: 10px 30px;
+    color: black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.boton a:hover {
+    background-color: turquoise;
+}
