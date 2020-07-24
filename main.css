@@ -1,0 +1,38 @@
+.head-model {
+    background-color: #333333;
+    padding: 10px 10px;
+}
+
+.head-model h1 {
+    color: white;
+    text-align: center;
+}
+
+.head-model h1:hover {
+    color: tomato;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.imagenes img {
+    max-width: 50%;
+    border-radius: 20px;
+    border-color: black;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.parte-final {
+    background-color: #333333;
+    padding: 10px 10px;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
